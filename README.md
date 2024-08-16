@@ -56,6 +56,8 @@ The software components of the Medi Box project include:
 - **Arduino Firmware:** The firmware running on the ESP32 microcontroller.
 - **Node-Red Flows:** Node-Red flows for medication scheduling and notifications.
 
+<img src="Flow_Screenshot.png" alt="README Template" />
+
 ## Usage
 
 1. **Hardware Assembly:** According to Wokwi simulation assemble the hardware components.
